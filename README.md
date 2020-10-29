@@ -1,3 +1,1 @@
-# Stopwatch_YulianaMuksin_2201800091
-
-Stopwatch App created using Android Studio by Yuliana Muksin 2201800091 LM01.
+# Android_Menu_Chapter14_YulianaMuksin_2201800091
